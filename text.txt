@@ -6,10 +6,3 @@
 fsdf
 234
 1
------------------------
-sdfsdg
-d
----
-sdf
-----
-new feature
